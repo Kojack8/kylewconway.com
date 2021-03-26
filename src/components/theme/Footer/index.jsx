@@ -14,8 +14,8 @@ export const Footer = () => (
             💖
           </span>{' '}
           by{' '}
-          <a href="https://smakosh.com/?ref=portfolio-dev" rel="noopener noreferrer" target="_blank">
-            Smakosh
+          <a href="https://github.com/Kojack8" rel="noopener noreferrer" target="_blank">
+            Kyle
           </a>
         </span>
       </Details>
