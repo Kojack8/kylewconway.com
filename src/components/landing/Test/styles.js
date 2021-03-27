@@ -1,10 +1,10 @@
 import styled from 'styled-components';
-import detailsIllustration from 'assets/illustrations/details.svg';
+import detailsIllustration from 'assets/illustrations/overlay.svg';
 
 export const Wrapper = styled.div`
   background-image: url(${detailsIllustration});
   background-size: contain;
-  background-position: left top;
+  background-position: right top;
   background-repeat: no-repeat;
 `;
 
@@ -27,6 +27,17 @@ export const Details = styled.div`
     padding-left: unset;
     width: 100%;
   }
+
+  .dot {
+    height: 5px;
+    width: 5px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+
+    
+  }
+
 
   h1 {
     margin-bottom: 2rem;
