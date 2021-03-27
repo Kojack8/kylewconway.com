@@ -12,7 +12,7 @@ export const Aboutme = () => {
     <Wrapper id="about">
       <AboutmeWrapper as={Container}>
         <Thumbnail>
-          <img src={dev} alt="I’m Kyle and I’m a fullstack engineer!" />
+          <img src={dev} alt="I’m Kyle and I’m a software engineer!" />
         </Thumbnail>
         <Details theme={theme}>
           <h1>More about me</h1>
