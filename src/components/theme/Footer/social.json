@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "Telegram",
-    "link": "mailto:kojacked815@gmail.com",
+    "link": "https://t.me/Kconway",
     "icon": "/icons/telegram.svg"
   },
   {
@@ -16,5 +16,11 @@
     "name": "Twitter",
     "link": "https://twitter.com/kojack21688368",
     "icon": "/icons/twitter.svg"
+  },
+  {
+    "id": 3,
+    "name": "Gmail",
+    "link": "mailto:kojacked815@gmail.com",
+    "icon": "/icons/gmail_icon.svg"
   }
 ]

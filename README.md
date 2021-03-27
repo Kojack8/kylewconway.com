@@ -5,7 +5,7 @@ Built on React with Gatsby.js
 
 - Scores 100% on a11y / Performance / PWA / SEO
 - PWA (desktop & mobile)
-- Amazing illustrations by [Undraw.co](https://undraw.co)
+- Amazing open-source illustrations by [Undraw.co](https://undraw.co)
 - Tablet & mobile friendly
 - Continuous deployment with [Vercel](https://vercel.com/?utm_source=kojack8)
 - A contact form protected by Google Recaptcha
