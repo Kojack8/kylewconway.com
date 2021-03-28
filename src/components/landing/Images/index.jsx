@@ -43,6 +43,7 @@ export const Images = () => {
             be found walking my dog, jogging around the city, or playing video games online with my friends. It's a dream of mine to
             run the Chicago marathon, but so far have been unlucky with the lotto drawing. There's always next year!
           </p>
+          <p>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking." -Marcus Aurelius</p>
         </Details>
       </ImagesWrapper>
     </Wrapper>
