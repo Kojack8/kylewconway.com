@@ -36,7 +36,7 @@ export const Images = () => {
           <img src={photo4}  class = 'pic' alt='Control screen from a democratic candidates forum in Detroit, MI'/>
         </Thumbnail>
         <Details theme={theme}>
-          <h1>More about me</h1>
+          <h1>Interests</h1>
           <p>
             I listen to a lot of comedy podcasts, especially when I'm doing chores or driving. My favorites
             include "The Flagrant Ones," "Action Boyz," "Threedom" and "With Special Guest Lauren Lapkus." When I'm not working I can usually
