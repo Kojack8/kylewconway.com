@@ -4,14 +4,8 @@ import { Container} from 'components/common';
 import dev from 'assets/static/dog_001.jpg';
 import photo3 from 'assets/static/photo_003.jpg'
 import photo2 from 'assets/static/photo_002.jpg'
-import photo4 from 'assets/static/photo_004.jpg'
-import photo5 from 'assets/static/photo_005.jpg'
-import photo6 from 'assets/static/photo_006.jpg'
 import photo7 from 'assets/static/photo_007.jpg'
-import photo8 from 'assets/static/photo_008.jpg'
-import photo9 from 'assets/static/photo_009.jpg'
 import photo10 from 'assets/static/photo_010.jpg'
-import photo11 from 'assets/static/photo_011.jpg'
 import photo12 from 'assets/static/photo_012.jpg'
 import { Wrapper, ImagesWrapper, Details, Thumbnail } from './styles';
 
@@ -24,16 +18,10 @@ export const Images = () => {
         <Thumbnail>
           <img src={photo12} class = 'pic' alt='Presidential nominee Joe Biden speaks to the UFCW in Altoona, IA' />
           <img src={photo7} class = 'pic' alt='Photo of State Farm Arena ft. Trae Young.'/>
-          <img src={photo8} class = 'pic' alt='Movie set at a church in Atlanta, GA'/>
+          <img src={photo10}  class = 'pic'alt='A crew photo from The Real World in Las Vegas'/>
           <img src={dev} alt="My Italian Greyhound, Bella" class = 'pic' />
           <img src={photo3} class = 'Beam shaping prism in a laser projector' />
           <img src={photo2} class = 'pic' alt = 'Sample LED wall setup ft. a roading fire' />
-          <img src={photo5} class = 'pic' alt='Statue outside of McCormick Place'/>
-          <img src={photo6} class = 'pic' alt='A snow covered hot tub in Breckenridge, CO'/>
-          <img src={photo9} class = 'pic' alt='RISE lantern festival in the Mojave desert'/>
-          <img src={photo10}  class = 'pic'alt='A crew photo from Real World: Las Vegas'/>
-          <img src={photo11}  class = 'pic' alt='ActionBoyz podcast recording in Dallas, TX'/>
-          <img src={photo4}  class = 'pic' alt='Control screen from a democratic candidates forum in Detroit, MI'/>
         </Thumbnail>
         <Details theme={theme}>
           <h1>Interests</h1>
