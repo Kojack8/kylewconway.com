@@ -1,7 +1,9 @@
 import styled from 'styled-components';
 
+
 export const Wrapper = styled.div`
   padding: 2rem 0;
+
 `;
 
 export const Grid = styled.div`
@@ -27,11 +29,11 @@ export const Item = styled.div`
   box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.11);
 
   h4 {
-    color: ${({ theme }) => (theme === 'light' ? '#212121' : '#fff')};
+    color: ${({ theme }) => (theme === 'light' ? '#212121' : '#D4AF37')};
   }
 
   p {
-    color: ${({ theme }) => (theme === 'light' ? '#707070' : '#c7c7c7')};
+    color: ${({ theme }) => (theme === 'light' ? '#707070' : '#D4AF37')};
   }
 `;
 
