@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import detailsIllustration from 'assets/illustrations/footer.svg';
+import detailsIllustration from 'assets/illustrations/overlay.svg';
 
 export const Wrapper = styled.div`
   background-image: url(${detailsIllustration});
