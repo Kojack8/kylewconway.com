@@ -1,21 +1,27 @@
 import styled from 'styled-components';
-import detailsIllustration from 'assets/illustrations/overlay.svg';
+import detailsIllustration from 'assets/illustrations/details.svg';
 
 export const Wrapper = styled.div`
   background-image: url(${detailsIllustration});
   background-size: contain;
-  background-position: right top;
+  background-position: left top;
   background-repeat: no-repeat;
 `;
 
-export const AboutmeWrapper = styled.div`
+export const ImagesWrapper = styled.div`
   padding: 4rem 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  clear: both;
+  right-align: 5px;
 
-  @media (max-width: 960px) {
+  @media (max-width: 1960px) {
     flex-direction: column;
+  }
+
+  .pic {
+    padding: 10px;
   }
 `;
 
@@ -52,7 +58,10 @@ export const Details = styled.div`
 `;
 
 export const Thumbnail = styled.div`
-  flex: 1;
+  margin-left: 100px;
+  justify-content: center;
+  align-items: center;
+  display: flex-wrap;
 
   @media (max-width: 960px) {
     width: 100%;
@@ -60,6 +69,13 @@ export const Thumbnail = styled.div`
   }
 
   img {
-    width: 100%;
+    width: 350px;
+
+    &:hover {
+      opacity: 0.7;
+    }
   }
+
+
+  
 `;
