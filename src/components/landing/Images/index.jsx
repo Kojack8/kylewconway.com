@@ -1,12 +1,12 @@
 import React, { useContext } from 'react';
 import { ThemeContext } from 'providers/ThemeProvider';
 import { Container} from 'components/common';
-import dev from 'assets/static/dog_001.jpg';
-import photo3 from 'assets/static/photo_003.jpg'
-import photo2 from 'assets/static/photo_002.jpg'
-import photo7 from 'assets/static/photo_007.jpg'
-import photo10 from 'assets/static/photo_010.jpg'
-import photo12 from 'assets/static/photo_012.jpg'
+import dev from 'assets/static/dog_001.webp';
+import photo3 from 'assets/static/photo_003.webp'
+import photo2 from 'assets/static/photo_002.webp'
+import photo7 from 'assets/static/photo_007.webp'
+import photo10 from 'assets/static/photo_010.webp'
+import photo12 from 'assets/static/photo_012.webp'
 import { Wrapper, ImagesWrapper, Details, Thumbnail } from './styles';
 
 export const Images = () => {
