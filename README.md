@@ -1,5 +1,5 @@
 # Kyle Conway's personal website & portfolio
-Built on React with Gatsby.js!
+Built on React with Gatsby.js.
 
 ## Features
 
