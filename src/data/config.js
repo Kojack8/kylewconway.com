@@ -8,7 +8,7 @@ module.exports = {
   socialLinks: {
     twitter: 'https://twitter.com/kojack21688368',
     github: 'https://github.com/Kojack8',
-    linkedin: '',
+    linkedin: 'https://www.linkedin.com/in/kyle-conway-a7154b20a/',
     instagram: '',
     youtube: '',
     google: '',
@@ -21,14 +21,14 @@ module.exports = {
     twitter: '@kojack21688368',
   },
   address: {
-    city: 'City',
-    region: 'Region',
-    country: 'Country',
-    zipCode: 'ZipCode',
+    city: 'Chicago',
+    region: 'Illinois',
+    country: 'U.S.A.',
+    zipCode: '60647',
   },
   contact: {
-    email: 'email',
-    phone: 'phone number',
+    email: 'kojacked815@gmail.com',
+    phone: '(773)413-8744‬ ',
   },
   foundingDate: '2020',
 };
