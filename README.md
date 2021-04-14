@@ -35,7 +35,6 @@ Built on React with Gatsby.js.
 
 ## Built with
 
-- Adobe XD
 - Gatsby
 - React & GraphQL
 - Formium
