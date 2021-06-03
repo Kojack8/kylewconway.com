@@ -16,7 +16,7 @@ export const Skills = () => {
         <Details theme={theme}>
           <h1>Skills</h1>
           <p>
-          &nbsp;&nbsp;•Ruby  &nbsp;&nbsp;•Ruby on Rails &nbsp;&nbsp;•Node.js &nbsp;&nbsp;•React &nbsp;&nbsp;•PostgreSQL &nbsp;&nbsp;
+          &nbsp;&nbsp;•Java &nbsp;&nbsp;•Spring Boot &nbsp;&nbsp;•Ruby  &nbsp;&nbsp;•Ruby on Rails &nbsp;&nbsp;•Node.js &nbsp;&nbsp;•React &nbsp;&nbsp;•PostgreSQL &nbsp;&nbsp;
           •SQLite &nbsp;&nbsp;•MySQL &nbsp;&nbsp;•HTML &nbsp;&nbsp;•Heroku &nbsp;&nbsp;•CSS &nbsp;&nbsp;
           •Javascript ES6 &nbsp;&nbsp;•Git
           </p>
